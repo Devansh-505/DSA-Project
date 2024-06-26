@@ -509,6 +509,6 @@ int main()
 			<< i << " = ";
 		cout << fact << '\n';
 	}
-    cout<<first.NthFibonacci()<<endl;
+   
 
 }
